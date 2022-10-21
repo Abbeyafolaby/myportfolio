@@ -1,3 +1,3 @@
 # myportfolio
 
-https://oguvioletportfolio.netlify.app
+https://oguvioletfront-end.netlify.app
