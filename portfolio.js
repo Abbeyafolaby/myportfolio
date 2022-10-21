@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function(){
     $('.toggle').click(function(){
         $('.toggle').toggleClass('active')
         $('nav ul').toggleClass('active-menu')
