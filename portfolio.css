@@ -557,7 +557,6 @@ nav{
         content: '\f0c9';
         font-family: fontAwesome;
         line-height: 0px;
-        margin-left: -35px;
     }
     .toggle.active::before{
 
