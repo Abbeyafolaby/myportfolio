@@ -1,10 +1,3 @@
-$(function(){
-    $('.toggle').click(function(){
-        $('.toggle').toggleClass('active')
-        $('nav ul').toggleClass('active-menu')
-    });
-});
-
 
 var form = document.getElementById("my-form");
     
