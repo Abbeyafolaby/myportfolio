@@ -457,7 +457,8 @@ nav{
     outline: none;
     color: #fff;
     border:none;
-    padding:50px
+    margin:50px;
+    padding:50px;
     border-radius: 25px;
     font-size: 30px;
     text-transform: uppercase;
