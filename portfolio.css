@@ -165,15 +165,7 @@ nav{
     color: #fff;
     font-size: 1.2rem;
 }
-.about-text button{
-    width: 180px;
-    height: 40px;
-    border-radius: 20px;
-    border: none;
-    outline: none;
-    color: #fff;
-    background-color: rgb(134, 24, 134);
-}
+
 .about-text button:hover{
     color: black;
     transition: all ease 0.3s;
@@ -450,8 +442,6 @@ nav{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .contact-right button{
-    width: 50%;
-    height: 30px;
     color: #1b1b1b;
     background-color: #b466b4;
     outline: none;
@@ -459,11 +449,13 @@ nav{
     border:none;
     margin:50px;
     border-radius: 25px;
-    font-size: 30px;
+    font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 2px;
     cursor: pointer; 
     transition: all ease-in 0.5s;
+    padding: 10px;
+    width: 15%;
 }
 .contact-right button:hover{
     background-color: #db6cdb;
@@ -681,5 +673,11 @@ nav{
 
             left: 30px;
             transform: translateX(-10px);
+        }
+
+        .contact-right button{ 
+
+            width: 25%;
+
         }
     }
